@@ -1,1 +1,1 @@
-# stranding
+See notebooks/README.ipynb
